@@ -1,22 +1,17 @@
-Welcome to Lumache's documentation!
+Formation Python Pour les CPGEistes
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+Bienvenue à notre **formation Python** conçue spécialement pour les élèves de **CPGE scientifiques et économiques** !
+Au cours de cette formation, vous allez acquérir des compétences fondamentales en programmation Python grâce à notre approche didactique et pédagogique.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
-
-.. note::
-
-   This project is under active development.
-
-Contents
+Nous abordons les chapitres suivants :
 --------
 
 .. toctree::
 
-   usage
-   api
+   Chapitre 1 : Introduction au Langage Python
+   Chapitre 2 : Structures Alternatives
+   Chapitre 3 : Structures Répétitives
+   Chapitre 4 : Les Fonctions
+   Chapitre 5 : Les Listes
+   Chapitre 6 : Les chaînes de caractères
