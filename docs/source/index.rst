@@ -9,10 +9,9 @@ Nous abordons les chapitres suivants :
 --------
 
 .. toctree::
-
-Chapitre 1 : Introduction au Langage Python
-Chapitre 2 : Structures Alternatives
-Chapitre 3 : Structures Répétitives
-Chapitre 4 : Les Fonctions
-Chapitre 5 : Les Listes
-Chapitre 6 : Les chaînes de caractères
+   Chapitre 1 : Introduction au Langage Python
+   Chapitre 2 : Structures Alternatives
+   Chapitre 3 : Structures Répétitives
+   Chapitre 4 : Les Fonctions
+   Chapitre 5 : Les Listes
+   Chapitre 6 : Les chaînes de caractères
