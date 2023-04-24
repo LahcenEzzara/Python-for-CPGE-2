@@ -9,6 +9,7 @@ Nous abordons les chapitres suivants :
 --------
 
 .. toctree::
+   
    Chapitre 1 : Introduction au Langage Python
    Chapitre 2 : Structures Alternatives
    Chapitre 3 : Structures Répétitives
